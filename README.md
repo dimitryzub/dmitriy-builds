@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/78694043/177025362-08ba86a3-2222-41be-815b-c75ce574df84.jpg" />
 </p>
 
-# Dmitriy Builds - Pokemons Sculpted Collection
+# Dmitriy Builds Pokemons - Sculpted Collection
 
 
 | Pokemon image    | Title | Variations? | Printable?  | Height (~4-7-10+cm from low to high gen)|
