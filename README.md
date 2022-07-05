@@ -5,10 +5,10 @@
 # Dmitriy Builds - Pokemons Sculpted Collection
 
 
-
-
 | Pokemon image    | Title | Variations? | Printable?  | Height (~4-7-10+cm from low to high gen)|
 | ---------------- | ----- | :-----------------------:| :-----------------------:| :---:| 
 | <img src="https://user-images.githubusercontent.com/78694043/177025561-6cadba69-7fbe-4f70-ae3d-baad15156b3d.jpg" height="100" /> | [Amoongus #591](https://github.com/dimitryzub/dmitriy-builds-pokemons-sculpted-collection/blob/132aafe3bf239028938dc7ba10f2908617a2af69/Pokemons/Foongus-Amoongus/Amoongus/amoongus.md)   | ❌            | ✅            | ~7cm |
-| Image | lol2  | ❌                  | ✅            | ~7cm | 
+| <img src="https://user-images.githubusercontent.com/78694043/177384979-d1a0d38f-201e-4340-be0f-9745491b850d.jpg" height="100" /> | [Remoraid #223](https://github.com/dimitryzub/dmitriy-builds-pokemons-3d-sculpted-collection/blob/bb3d9ffc3c6a8a09fdf3bdb8f861958dee1c63f6/Pokemons/Remoraid/remoraid.md)  | ✅                  | ✅            | ~5cm figurine, ~10cm stand | 
 | Image  | lol2  | ❌                  | ✅            | ~7cm |
+
+
