@@ -1,7 +1,3 @@
-###  Link for 3D Printable STL File 
-
-Etsy link: [Remoraid Pokemon on the Stand STL File](https://www.etsy.com/listing/1263557889/remoraid-pokemon-on-the-stand-stl-file?ref=listing_published_alert)
-
 ## Remoraid Original Variation
 
 <p align="center">
@@ -32,6 +28,11 @@ Etsy link: [Remoraid Pokemon on the Stand STL File](https://www.etsy.com/listing
 ### Two Remoraids on the stand from Zbrush
 
 ![clay-paint-groups-illustration](https://user-images.githubusercontent.com/78694043/177386640-700ab661-3984-4e27-9b95-cca9195132f8.jpg)
+
+
+###  Link for 3D Printable STL File 
+
+Etsy link: [Remoraid Pokemon on the Stand STL File](https://www.etsy.com/listing/1263557889/remoraid-pokemon-on-the-stand-stl-file?ref=listing_published_alert)
 
 _____
 
