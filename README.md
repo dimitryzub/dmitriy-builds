@@ -4,7 +4,6 @@
 
 # Dmitriy Builds Pokemons - Sculpted Collection
 
-
 | Pokemon image    | Title | Variations? | Printable?  | Etsy Link  |  Height (~4-7-10+cm. Low to High Gen) |
 | ---------------- | ----- | :-----------------------: | :--------: | :-----------------------:| :---:| 
 | <img src="https://user-images.githubusercontent.com/78694043/177025561-6cadba69-7fbe-4f70-ae3d-baad15156b3d.jpg" height="70" /> | [Amoongus #591](https://github.com/dimitryzub/dmitriy-builds-pokemons-sculpted-collection/blob/132aafe3bf239028938dc7ba10f2908617a2af69/Pokemons/Foongus-Amoongus/Amoongus/amoongus.md)   | ❌            | ✅            | Soon | ~7cm |
@@ -12,3 +11,8 @@
 | Image  | lol2  | ❌                  | ✅            | Soon | ~7cm |
 
 
+## Get in touch or stay around
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/78694043/177582965-50bc59d2-ba1f-413f-899f-7f79b01b44a6.png" height="200" />
+</p>
