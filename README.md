@@ -4,8 +4,6 @@
 
 # Dmitriy Builds
 
-## Get in touch or stay around
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/78694043/177582965-50bc59d2-ba1f-413f-899f-7f79b01b44a6.png" height="200" />
 </p>
